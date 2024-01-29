@@ -1,1 +1,1 @@
-select name from v$dtabase;
+select name from v$database
