@@ -1,2 +1,2 @@
 select name from tabs;
-select * from tab
+select * from tab;
