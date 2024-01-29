@@ -1,1 +1,1 @@
-select name from tabs:
+select name from tabs;
